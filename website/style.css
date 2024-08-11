@@ -1,0 +1,93 @@
+      body {
+        background: linear-gradient( rgb 240, 233, 233 color rgb(178, 31, 31))
+         
+        }
+         h2,h3, dt, dd {
+            color:rgb(44, 94, 58);
+            font-family: Embed code;
+            font-size:22px;
+            text-align: center;
+            
+            
+        }
+        footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+     img {
+border-style: outset;
+border: width 4px;
+border-color: rgb(167, 144, 10);
+border-radius: 40px;
+margin:2px;
+padding: 10px;
+text-align: center;
+position: relative;
+left: 700px;
+
+        }
+        h2{
+    font-size: 25x;
+    text-align: center; 
+        }
+        
+     
+        h1{
+    text-align: center;
+    border: outset ;
+    border-width: 10px;
+    border-color: goldenrod;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    color:rgb(44, 94, 58);
+    font-family: Embed code;
+        }   
+h1{
+text-shadow: 10px 10px 10px  
+}
+
+
+ 
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+left: 600px;
+}
+
+ 
+nav ul li a:hover {
+    background-color: #575757;
+    color: #ffcc00;
+}
+
+ 
+nav ul li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
